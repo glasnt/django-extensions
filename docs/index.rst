@@ -80,4 +80,4 @@ Indices and tables
 
 * :ref:`search`
 
-__ http://ericholscher.com/blog/2008/sep/12/screencast-django-command-extensions/
+__ https://vimeo.com/1720508
